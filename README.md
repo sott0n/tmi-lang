@@ -1,2 +1,3 @@
 # tmi-lang
-A toy language for connecting MLIR.
+A toy tensor language for connecting MLIR.
+This project is based on LLVM.
